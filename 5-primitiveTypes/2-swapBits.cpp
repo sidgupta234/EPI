@@ -1,4 +1,4 @@
-Full Analysis and Solution at https://sidgupta234.wordpress.com/2016/06/08/2-swap-bits/
+//Full Analysis and Solution at https://sidgupta234.wordpress.com/2016/06/08/2-swap-bits/
 #include <bits/stdc++.h>
 using namespace std;
 
