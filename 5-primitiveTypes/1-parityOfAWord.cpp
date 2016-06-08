@@ -1,3 +1,4 @@
+// Full explanation and solution is available at https://sidgupta234.wordpress.com/2016/06/08/1-parity-of-a-word/
 #include <bits/stdc++.h>
 using namespace std;
 int sizeOfInt=sizeof(int)*8;
