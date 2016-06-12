@@ -1,3 +1,4 @@
+//solutions and discussions available at https://codenmath.com/2016/06/12/reverse-bits/
 #include <bits/stdc++.h>
 using namespace std;
 
