@@ -1,3 +1,6 @@
+//Function which takes as input a string s and returns true if s is a palindromic string. 
+//A palindromic string is the one which when all the nonalphanumerics are removed, it reads the same front to back ignoring case.
+
 #include <bits/stdc++.h>
 
 using namespace std;
