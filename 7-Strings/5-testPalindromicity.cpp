@@ -11,7 +11,7 @@ bool isPalin(string s);
 int main(){
 	string s;
 	getline(cin,s);
-	cout<<isPalin(s)<<endl;
+	cout<<(isPalin(s)?"The given string is a palindrome" :"The given string is not a palindrome")<<endl;
 	return 0;
 }
 
@@ -24,11 +24,11 @@ string makeLower(string s){
 			s2+=(s[i]+32);
 		}
 
-		if(s[i]>='a' && s[i]<='z'){
+		else if(s[i]>='a' && s[i]<='z'){
 			s2+=s[i];
 		}
 
-		if(s[i]>='0' && s[i]<='9'){
+		else if(s[i]>='0' && s[i]<='9'){
 			s2+=s[i];
 		}
 	}
